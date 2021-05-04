@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 𝙸 𝚊𝚖 𝚊 𝚌𝚞𝚛𝚒𝚘𝚞𝚜 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚑𝚘 𝚎𝚗𝚓𝚘𝚢𝚜 𝚍𝚎𝚏𝚒𝚗𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜. 🇰🇷👩🏻‍💻
+#### I am a curious developer who enjoys defining problems. 🇰🇷👩🏻‍💻
 
 <!--
 **jjhstoday/jjhstoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
