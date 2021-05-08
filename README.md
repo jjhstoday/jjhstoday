@@ -1,6 +1,7 @@
 ### Hi there, I'm Jihye! 👋
-✨ [jjhstoday.log](https://github.com/jjhstoday) <br>
-✨ jjh.s.today@gmail.com <br>
+- 💕 TypeScript Lover <br>
+- ❄️ Reactjs Magician<br>
+- 🎨 UI Crafting <br>
 
 𝙸 𝚊𝚖 𝚊 𝚌𝚞𝚛𝚒𝚘𝚞𝚜 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚑𝚘 𝚎𝚗𝚓𝚘𝚢𝚜 𝚍𝚎𝚏𝚒𝚗𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜. 🇰🇷👩🏻‍💻 <br>
 
